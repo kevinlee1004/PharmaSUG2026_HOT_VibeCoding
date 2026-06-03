@@ -10,6 +10,5 @@ Vibe Coding Agent:
 
 https://167.172.112.209/login
 
-ID = codezentemp@clinvia.com
-Pass = codezen123@
+
 
